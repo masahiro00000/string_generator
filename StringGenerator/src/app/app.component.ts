@@ -64,9 +64,9 @@ export class AppComponent {
   }
 
   reset(){
-    this.textIn = undefined;
-    this.textOut = undefined;
-    this.length = undefined;
-    this.times = undefined;
+    this.textIn = "";
+    this.textOut = "";
+    this.length = null;
+    this.times = null;
   }
 }
