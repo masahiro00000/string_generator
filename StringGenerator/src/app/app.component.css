@@ -1,0 +1,21 @@
+.button-row button,
+.button-row a {
+  margin: 8px;
+}
+
+div {
+    margin-top: 8px;
+}
+
+textarea {
+    resize: auto;
+}
+
+.text-area {
+    width: 100%;
+}
+
+.length{
+    margin-top: 0px;
+    text-align: right;
+}
